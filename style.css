@@ -322,6 +322,11 @@ section h2 {
   color:white;
 }
 
+.seo-content {
+  padding: 40px;
+  text-align: center;
+}
+
 /* CLASSES */
 .class-container {
   display: flex;
