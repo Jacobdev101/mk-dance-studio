@@ -678,7 +678,7 @@ h2::after {
 }
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 50px;
+  scroll-padding-top: 90px;
 }
 .glow-text {
   text-shadow: 0 0 4px rgba(255, 79, 163, 0.6);
